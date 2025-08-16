@@ -1,0 +1,16 @@
+{
+  "name": "backend-node",
+  "version": "1.0.0",
+  "description": "a practice backend project from chai aur code channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Swapnil Shakya",
+  "license": "ISC"
+}
